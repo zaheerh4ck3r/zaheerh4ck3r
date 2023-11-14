@@ -11,9 +11,8 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch Logo"></code>
 <code><img height="20" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python Logo"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" alt="Computer Vision Logo"></code>
-<code><img height="20" src="https://nlp.stanford.edu/images/snlp_banner.png" alt="NLP Logo"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1280px-Tux.svg.png" alt="Linux Logo"></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/9831/9831299.png" alt="NLP"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux Logo"></code>
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
