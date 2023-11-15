@@ -91,20 +91,15 @@
 
 ---
 ## GitHub Profile Stats 💻
-
-
 <p align="center">
 <a href="https://github.com/zaheerh4ck3r">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zaheerh4ck3r&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zaheerh4ck3r&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
----
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
-
-
 </br></br>
 ---
 ### Interested In
