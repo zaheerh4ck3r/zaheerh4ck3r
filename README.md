@@ -12,7 +12,7 @@
 <br>
 
 
-## Connect with me<picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> 
+##🤝🏻 Connect with me<picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> 
 
 <p align="center">
   <a href="mailto:zaheerh4ck3r@gmail.com">
@@ -29,7 +29,7 @@
   </a>
 </p>
 
-## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+## 🛠 Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 <p align="center">
   <a href="https://www.python.org" target="_blank">
@@ -90,7 +90,7 @@
 </p>
 
 ---
-## GitHub Profile Stats 💻
+## ⚙️ GitHub Profile Stats 💻
 <p align="center">
 <a href="https://github.com/zaheerh4ck3r">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zaheerh4ck3r&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
