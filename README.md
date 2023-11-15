@@ -35,10 +35,6 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
   
-  <a href="" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  </a>
-  
    <a href="" target="_blank">
     <img alt="Tensor" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   </a>
@@ -93,6 +89,46 @@
 </p>
 
 ---
+<details>
+  <summary>GitHub Profile Stats 💻</summary>
+  <div>
+    <h2 align="center">GitHub Stats</h2>
+    <details open>
+      <summary><h3>Languages</h3></summary>
+      <p align="center">
+        <a href="https://github.com/zaheerh4ck3r/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaheerh4ck3r&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="zaheerh4ck3r :: overall Top Langs">
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/zaheerh4ck3r/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zaheerh4ck3r&theme=gruvbox&layout=compact&hide_border=true" alt="zaheerh4ck3r :: Top Langs by repo">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zaheerh4ck3r&theme=gruvbox&layout=compact&hide_border=true" alt="zaheerh4ck3r :: Top Langs by commit">
+        </a>
+      </p>
+    </details>
+    <details open>
+      <summary><h3>Statistics</h3></summary>
+      <p align="center">
+        <a href="https://github.com/zaheerh4ck3r/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=zaheerh4ck3r&show_icons=true&theme=gruvbox&hide_border=true">
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=zaheerh4ck3r&theme=gruvbox&hide_border=true">
+        </a>
+      </p>
+    </details>
+  </div>
+</details>
+
+<details>
+  <summary>Latest Activity Graph 📈</summary>
+  <br>
+  <h2 align="center">Latest Contribution</h2>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="zaheerh4ck3r's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=zaheerh4ck3r&theme=github-compact&hide_border=true">
+  </a>
+  <br>
+</details>
+
 ### Interested In
 > "Quantum Machine Learning"
 
