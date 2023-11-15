@@ -26,7 +26,7 @@
   </a>
 </p>
 
-## 🛠 Tech Stack<img
+## 🛠 Tech Stack
 <p align="center">
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
