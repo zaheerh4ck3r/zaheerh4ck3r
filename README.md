@@ -12,7 +12,7 @@
 <br>
 
 
-##🤝🏻 Connect with me<picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> 
+## 🤝🏻 Connect with me<picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> 
 
 <p align="center">
   <a href="mailto:zaheerh4ck3r@gmail.com">
