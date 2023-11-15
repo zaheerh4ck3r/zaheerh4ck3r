@@ -129,75 +129,15 @@
 ---
 > "Don't speak too much; show me the code."
 
-### Projects I am working on right now, soon will be uploaded to a new repo
+### Learning Projects I am working on this week
 
 1.  IPL Cricket Score Prediction Using TPOT (Auto ML)
 2.  Predicting Bike Rentals Count Using ML And H2O Auto ML
 3.  Concrete Compressive Strength Prediction Using Auto Keras (Auto ML)
 4.  Bangalore House Price Prediction Using Auto SK Learn (Auto ML)
 5.  Hospital Mortality Prediction Using PyCaret (Auto ML)
-6.  Employee Evaluation For Promotion Using ML And Eval Auto ML
-7. Heart Attack Risk Predictor Using Auto ML
-8. Credit card fraud detection
-9. Flight Fare Prediction Using Auto SK Learn (Auto ML)
-10. Petrol Price Forecasting Using Auto Keras
-11. Bank Customer Churn Prediction Using H2O Auto ML
-12. Air Quality Index Predictor Using TPOT With End-To-End Deployment (Auto ML)
-13. Rain Prediction Using ML models _ PyCaret With Deployment (Auto ML)
-14. Pizza Price Prediction Using ML And EVALML(Auto ML)
-15. Used Car Price Prediction
-16. Restaurant Reviews Classification
-17. Multiclass image classification with ANN
-18. Binary Data Classification with ANN
-19. Object Recognition in Images with CNN
-20. Binary Image Classification with CNN
-21. Digit Recognition with CNN
-22. Breast Cancer Detection with CNN
-23. Predicting the Bank Customer Satisfaction with CNN
-24. Credit Card Fraud Detection with CNN
-25. IMDB Review Classification with RNN LSTM
-26. Multiclass Image Classification with RNN LSTM
-27. Google Stock Price Prediction with RNN and LSTM
-28. Transfer Learning for Cats and Dogs Classification
-29. Movie Review Classification with NLTK
-30. Breast Cancer Detection
-31. Customer churn rate prediction
-32. Medical insurance premium prediction
-33. House price prediction
-34. E signing of customers based on financial data
-35. Credit card fraud detection
-36. Employee Attrition Prediction
-37. Customer Segmentation
-38. Predicting Hotel Booking
-39. Apparent temperature prediction
-40. Consumer Complaint classification
-42. Live Sketch Project
-41. Traditional Dance
-42. Leaf disease detector
-43. Car Brand Identification
-44. Tweet Analysis Project
-45. Emotion Analysis using NLP
-46. Amazon Alexa Review system
-47. Disaster Predictor System
-48. IMDB Movie Review system
-49. Vaccination for justified user system using NLP
-50. Blood donation analysis
-51. DNA classification
-52. Kyphosis disease classification
-53. Mortality prediction in ICU using ANN
-54. Sucide rate trend analysis
-55. E-signing of loan based on financial history
-56. Mutual fund project
-57. NYSE Stock Price Prediction
-58. Prediction of default of credit card
-59. RBI Resources Data Analysis
-60. Image Caption Bot
-61. Costa Rican household poverty prediction
-62. Stroke prediction problem
-63. Car price prediction
-64. Bigmart sales prediction
-65. Loan Prediction Analysis
-66. Predicting employee attrition
+### Interested In
+> "Quantum Machine Learning"
 
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
