@@ -12,7 +12,8 @@
 <br>
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## Connect with me<picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> 
+
 <p align="center">
   <a href="mailto:zaheerh4ck3r@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -89,46 +90,32 @@
 </p>
 
 ---
-<details>
-  <summary>GitHub Profile Stats 💻</summary>
-  <div>
-    <h2 align="center">GitHub Stats</h2>
-    <details open>
-      <summary><h3>Languages</h3></summary>
-      <p align="center">
-        <a href="https://github.com/zaheerh4ck3r/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaheerh4ck3r&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="zaheerh4ck3r :: overall Top Langs">
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://github.com/zaheerh4ck3r/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zaheerh4ck3r&theme=gruvbox&layout=compact&hide_border=true" alt="zaheerh4ck3r :: Top Langs by repo">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zaheerh4ck3r&theme=gruvbox&layout=compact&hide_border=true" alt="zaheerh4ck3r :: Top Langs by commit">
-        </a>
-      </p>
-    </details>
-    <details open>
-      <summary><h3>Statistics</h3></summary>
-      <p align="center">
-        <a href="https://github.com/zaheerh4ck3r/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=zaheerh4ck3r&show_icons=true&theme=gruvbox&hide_border=true">
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=zaheerh4ck3r&theme=gruvbox&hide_border=true">
-        </a>
-      </p>
-    </details>
-  </div>
-</details>
+## GitHub Profile Stats 💻
 
-<details>
-  <summary>Latest Activity Graph 📈</summary>
-  <br>
-  <h2 align="center">Latest Contribution</h2>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="zaheerh4ck3r's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=zaheerh4ck3r&theme=github-compact&hide_border=true">
+### GitHub Stats
+
+#### Languages
+
+<p align="center">
+  <a href="https://github.com/zaheerh4ck3r/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaheerh4ck3r&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="zaheerh4ck3r :: overall Top Langs">
   </a>
-  <br>
-</details>
+</p>
+<p align="center">
+  <a href="https://github.com/zaheerh4ck3r/">
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zaheerh4ck3r&theme=gruvbox&layout=compact&hide_border=true" alt="zaheerh4ck3r :: Top Langs by repo">
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zaheerh4ck3r&theme=gruvbox&layout=compact&hide_border=true" alt="zaheerh4ck3r :: Top Langs by commit">
+  </a>
+</p>
 
+#### Statistics
+
+<p align="center">
+  <a href="https://github.com/zaheerh4ck3r/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=zaheerh4ck3r&show_icons=true&theme=gruvbox&hide_border=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=zaheerh4ck3r&theme=gruvbox&hide_border=true">
+  </a>
+</p>
 ### Interested In
 > "Quantum Machine Learning"
 
