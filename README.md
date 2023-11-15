@@ -66,7 +66,7 @@
 <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
 
    <a href="https://opencv.org/" target="_blank">
-    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">	
   </a>
    <a href="https://www.selenium.dev/" target="_blank">
     <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
@@ -100,11 +100,8 @@
   <a href="https://github.com/zaheerh4ck3r/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaheerh4ck3r&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="zaheerh4ck3r :: overall Top Langs">
   </a>
-</p>
-<p align="center">
   <a href="https://github.com/zaheerh4ck3r/">
     <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zaheerh4ck3r&theme=gruvbox&layout=compact&hide_border=true" alt="zaheerh4ck3r :: Top Langs by repo">
-    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zaheerh4ck3r&theme=gruvbox&layout=compact&hide_border=true" alt="zaheerh4ck3r :: Top Langs by commit">
   </a>
 </p>
 
