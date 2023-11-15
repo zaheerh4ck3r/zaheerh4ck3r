@@ -92,26 +92,12 @@
 ---
 ## GitHub Profile Stats 💻
 
-### GitHub Stats
-
-#### Languages
 
 <p align="center">
-  <a href="https://github.com/zaheerh4ck3r/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaheerh4ck3r&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="zaheerh4ck3r :: overall Top Langs">
-  </a>
-  <a href="https://github.com/zaheerh4ck3r/">
-    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zaheerh4ck3r&theme=gruvbox&layout=compact&hide_border=true" alt="zaheerh4ck3r :: Top Langs by repo">
-  </a>
-</p>
-
-#### Statistics
-
-<p align="center">
-  <a href="https://github.com/zaheerh4ck3r/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=zaheerh4ck3r&show_icons=true&theme=gruvbox&hide_border=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=zaheerh4ck3r&theme=gruvbox&hide_border=true">
-  </a>
+<a href="https://github.com/zaheerh4ck3r">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zaheerh4ck3r&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zaheerh4ck3r&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 ### Interested In
 > "Quantum Machine Learning"
