@@ -8,7 +8,7 @@
 - 🫁 Currently working on `Early detection of lung cancer using Pytorch`.
 - :student: I’m currently learning `Advanced Deep Learning`.
 - :nerd_face: Always `learning new things`.
-- :boom: You can visit My website here: [In Progress](zaheerh4ck3r.github.io](https://zaheerh4ck3r.github.io/portfolio/).
+- :boom: You can visit My website: [here](https://zaheerh4ck3r.github.io/portfolio/).
 
 <br>
 
