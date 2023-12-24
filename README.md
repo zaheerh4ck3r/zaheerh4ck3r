@@ -5,7 +5,7 @@
 
 - :school: I am a Software Engineering Internee at Ejad Labs
 - :technologist: I love using Software as a solution for every `Problem`.
-- 🫁: Currently working on `Lung Cancer Detection using Pytorch`.
+- 🫁: Currently working on `Early detection of lung cancer using Pytorch`.
 - :student: I’m currently learning `Advanced Deep Learning`.
 - :nerd_face: Always `learning new things`.
 - :boom: You can visit My website here: [In Progress](zaheerh4ck3r.github.io).
