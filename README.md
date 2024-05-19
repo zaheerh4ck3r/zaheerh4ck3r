@@ -3,7 +3,7 @@
 
 <br><br>
 
-- :school: I am a Software Engineering Internee at Ejad Labs
+- :school: I am a Software Engineering Trainee at Ejad Labs
 - :technologist: I love using Software as a solution for every `Problem`.
 - 🫁 Currently working on `Early detection of lung cancer using Pytorch`.
 - :student: I’m currently learning `Advanced Deep Learning`.
