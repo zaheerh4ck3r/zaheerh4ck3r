@@ -20,7 +20,7 @@
   <a href="mailto:zaheerh4ck3r@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://wa.me/+923195679902">
+  <a href="https://wa.me/+923700059475">
     <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
   </a>
   <a href="https://www.linkedin.com/in/zaheerh4ck3r/">
