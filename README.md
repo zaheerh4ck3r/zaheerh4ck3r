@@ -9,7 +9,7 @@
 - :student: I’m currently learning `Advanced Deep Learning`.
 - :nerd_face: Always `learning new things`.
 - :boom: You can visit My website: [here](https://zaheerh4ck3r.vercel.app/)
-- 📑: You can visit My Resume: [here](https://drive.google.com/file/d/1DHi1fXrpCl2YA_-FiLDk20_omPU-zUae/view?usp=sharing)
+- 📑: You can visit My Resume: [here](https://drive.google.com/file/d/1yPE4Rv2SEhaD-IYVnhhLJ3Q-lEGXp6BH/)
 
 <br>
 
