@@ -3,11 +3,11 @@
 
 <br><br>
 
-- :school: I am a Software Engineering Trainee at Ejad Labs
+- :school: I am a currently looking for jobs.
 - :technologist: I love using Software as a solution for every `Problem`.
-- 🫁 Currently working on `Early detection of lung cancer using Pytorch`.
-- :student: I’m currently learning `Advanced Deep Learning`.
-- :nerd_face: Always `learning new things`.
+- 🫁 Currently working on `Early detection of lung cancer using Pytorch` & solving `leetcode challenges`
+- :student: I’m currently learning `Advanced Deep Learning` & DSA
+- :nerd_face: Always `learning new things`
 - :boom: You can visit My website: [here](https://zaheerh4ck3r.vercel.app/)
 - 📑: You can visit My Resume: [here](https://drive.google.com/file/d/1yPE4Rv2SEhaD-IYVnhhLJ3Q-lEGXp6BH/)
 
