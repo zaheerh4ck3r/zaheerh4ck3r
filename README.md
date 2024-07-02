@@ -3,7 +3,7 @@
 
 <br><br>
 
-- :school: I am currently looking for jobs.
+- :school: I am currently working at PLUG AI as DATA SCIENTIST.
 - :technologist: I love using Software as a solution for every `Problem`.
 - 🫁 Currently working on `Early detection of lung cancer using Pytorch` & solving `leetcode challenges`
 - :student: I’m currently learning `Advanced Deep Learning` & DSA
