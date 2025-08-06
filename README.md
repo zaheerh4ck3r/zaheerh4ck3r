@@ -3,7 +3,7 @@
 
 <br><br>
 
-- :school: I am currently working at PLUG AI as DATA SCIENTIST.
+- :school: I am currently working at AIRLOOP as a MACHINE LEARNING ENGINEER.
 - 🫁 Currently working on `Early detection of lung cancer using Pytorch` & solving `leetcode challenges`
 - :student: I’m currently trying to solve ` TSP with Quantum Machine Learning`
 - :boom: You can visit My website: [here](https://zaheerh4ck3r.vercel.app/)
