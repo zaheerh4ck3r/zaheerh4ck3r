@@ -116,3 +116,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=11&text=Till%20the%20next%20patch&textBg=false&fontAlignY=80&section=footer&reversal=true&animation=twinkling&fontAlign=60"/>
 </p>
+
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=11&text=Till%20the%20next%20patch&textBg=false&fontAlignY=80&section=footer&reversal=true&animation=twinkling&fontAlign=60"/>
+</p>
