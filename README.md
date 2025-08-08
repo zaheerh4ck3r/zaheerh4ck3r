@@ -97,3 +97,15 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 </br></br>
+
+## Lazziness Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/zahid-marwat/zahid-marwat/blob/output/github-snake-dark.svg" alt = "Snake Game"/>
+</p>
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=11&text=Till%20the%20next%20patch&textBg=false&fontAlignY=80&section=footer&reversal=true&animation=twinkling&fontAlign=60"/>
+</p>
